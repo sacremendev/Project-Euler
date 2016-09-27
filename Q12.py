@@ -9,7 +9,7 @@ def factors(n):
 		
 a = 1
 c = 0
-result=1
+result = 1
 
 while result < 500:
 	c = c + a
